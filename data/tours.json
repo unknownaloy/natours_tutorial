@@ -1,0 +1,39 @@
+{
+	"tours": [
+		{
+			"name": "Historic Walking Tour",
+			"description": "Explore the rich history of our city on a guided walking tour through its oldest neighborhoods and landmarks.",
+			"duration": "2 hours",
+			"price": "$25",
+			"location": "City Center"
+		},
+		{
+			"name": "Wine Tasting Tour",
+			"description": "Sample some of the region's finest wines on a tour of the best wineries and vineyards in the area.",
+			"duration": "4 hours",
+			"price": "$75",
+			"location": "Wine Country"
+		},
+		{
+			"name": "Adventure Tour",
+			"description": "Experience the thrill of outdoor adventure on a tour that includes hiking, rock climbing, and zip lining.",
+			"duration": "6 hours",
+			"price": "$150",
+			"location": "Mountain Range"
+		},
+		{
+			"name": "Foodie Tour",
+			"description": "Indulge your taste buds on a culinary tour of the city's best restaurants, cafes, and food trucks.",
+			"duration": "3 hours",
+			"price": "$50",
+			"location": "City Center"
+		},
+		{
+			"name": "Beach Tour",
+			"description": "Soak up the sun and enjoy the sand and surf on a tour of the best beaches in the area.",
+			"duration": "5 hours",
+			"price": "$100",
+			"location": "Coastline"
+		}
+	]
+}
